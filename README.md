@@ -2,7 +2,7 @@
 
 https://bookityourway.com/
 
-Get API from https://thomalex.com/ and develop the plugin
+Using API from https://thomalex.com/ and develop the plugin
 
 **Shortcode for Destination**
 
