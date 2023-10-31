@@ -2,7 +2,9 @@
 
 https://bookityourway.com/
 
-Shortcode for Destination
+Get API from https://thomalex.com/ and develop the plugin
+
+**Shortcode for Destination**
 
 [thomalex destination="the destination (property) id here" ]
 
